@@ -32,8 +32,11 @@
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 ![Скриншот-2](https://github.com/Morfey29/sflt-homeworks-rsync/blob/main/img/img2.png)
+
 ![Скриншот-3](https://github.com/Morfey29/sflt-homeworks-rsync/blob/main/img/img3.png)
+
 [Файл скрипта](https://github.com/Morfey29/sflt-homeworks-rsync/blob/main/SH/haproxy1.cfg)
+
 [Файл crontab](https://github.com/Morfey29/sflt-homeworks-rsync/blob/main/CRONTAB/crontab)
 
 ------
